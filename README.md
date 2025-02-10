@@ -24,8 +24,8 @@ Sleep Sync is a sleep management application designed to help users improve thei
 
 ---
 
-## Developers Profile
+## Developers' Profile
 
-- [Ciddy S. Macapinlac]: https://github.com/ciddysed
-- [Michael Anthony J. Yong]: https://github.com/MichaelYong14
-- [James Ernest T. Wolfe]: https://github.com/james-wolfe-04
+- [Ciddy S. Macapinlac](https://github.com/ciddysed)
+- [Michael Anthony J. Yong](https://github.com/MichaelYong14)
+- [James Ernest T. Wolfe](https://github.com/james-wolfe-04)
